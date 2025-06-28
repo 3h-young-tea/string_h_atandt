@@ -10,4 +10,4 @@ this is an educational example implementing `string.h` functions using at&t asse
 
 `string.h` serves as an excellent starting point for learning assembly language. whether you are studying at&t or intel syntax, as long as you have a solid foundation in c programming, implementing `string.h` is quite approachable. at the same time, it offers a practical and effective way to deepen your understanding of low-level string operations.
 
-we highly recommend beginning your assembly learning journey by implementing `string.h` — it’s simple yet challenging and very rewarding.
+we recommend beginning your assembly learning journey by implementing `string.h` — it’s simple yet challenging and very rewarding.
