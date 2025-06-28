@@ -1,4 +1,4 @@
-# string_h_atandt
+# string.h in at&t assembly
 
 string.h functions in at&t assembly
 
