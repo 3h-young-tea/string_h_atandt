@@ -100,7 +100,9 @@ end_cmp:
 #		if(slen==0){
 #			return NULL;
 #		}	pi=(ll*)malloc(plen*sizeof(ll));
-#		for(int i=1,j=0;i<plen;i++){
+#		if(pi==NULL){
+#			return NULL;
+#		}	for(int i=1,j=0;i<plen;i++){
 #			while(j&&p[j]!=p[i]){
 #				j=pi[j-1];
 #			}	if(p[j]==p[i]){
@@ -120,7 +122,7 @@ end_cmp:
 #				return a+i-j+2;
 #				j=pi[j-1];
 #			}
-#		}
+#		}	free(pi);
 #		return NULL;
 #	}
 	ret
