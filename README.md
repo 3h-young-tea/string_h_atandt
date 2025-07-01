@@ -10,7 +10,7 @@
 - `charr2int` : just like `atoll`
 - `charr_cat` : like `strcat`
 - `charr_cmp` : like `strcmp`
-- `charr_charr` : like `strstr`, but it uses kmp. i haven't code it. you can code it if you are excited
+- `charr_charr` : like `strstr`, but it uses knuth-morris-pratt algo. i haven't code it. you can code it if you are excited
 - `charr_ch` : like `strchr`
 - `charr_cpy` : like `strcpy`
 - `charr_len` : like `strlen`
