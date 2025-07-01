@@ -16,7 +16,7 @@
 - `charr_len` : like `strlen`
 - `charr_rch` : like `strrchr`
 
-i believe the `string.h` header file serves as an excellent starting point for learning assembly language, whether it's at&t or intel syntax. mastering `string.h` only requires a foundational understanding of c programming, basic register operations, and jump instructions. once you can implement your own `string.s`, you'll have taken your first step toward becoming a proficient assembly programmer. i trust you!
+i believe the `string.h` header file serves as an excellent starting point for learning assembly language, whether it's at&t or intel syntax. mastering `string.s` only requires a foundational understanding of c programming, basic register operations, and jump instructions. once you can implement your own `string.s`, you'll have taken your first step toward becoming a proficient assembly programmer. i trust you!
 
 ## installation / build
 
